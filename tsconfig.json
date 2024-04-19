@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "JavaScript",
+    "target": "ESNext",
+    "strictPropertyInitialization": false
+  },
+  "watchOptions": {
+    "watchDirectory": "useFsEvents",
+    "watchFile": "useFsEvents"
+  }
+}
